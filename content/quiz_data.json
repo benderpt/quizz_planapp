@@ -1,0 +1,63 @@
+[
+    {
+        "question": "Qual é a principal área de foco do PlanAPP?",
+        "information": "O PlanAPP foca em melhorar a administração pública através de inovação e tecnologia.",
+        "options": ["Agricultura", "Administração pública", "Turismo", "Educação"],
+        "answer": "Administração pública"
+    },
+    {
+        "question": "Que tipo de projetos o PlanAPP apoia?",
+        "information": "O PlanAPP apoia projetos que visam a inovação e a eficiência na administração pública.",
+        "options": ["Projetos de arte", "Projetos desportivos", "Projetos de inovação pública", "Projetos de moda"],
+        "answer": "Projetos de inovação pública"
+    },
+    {
+        "question": "Como o PlanAPP contribui para a digitalização da administração pública?",
+        "information": "O PlanAPP promove a digitalização para aumentar a eficiência dos serviços públicos.",
+        "options": ["Introduzindo novas leis", "Promovendo a educação física", "Implementando novas tecnologias", "Reduzindo o número de funcionários"],
+        "answer": "Implementando novas tecnologias"
+    },
+    {
+        "question": "Qual é o papel do PlanAPP na formação dos funcionários públicos?",
+        "information": "O PlanAPP oferece formação para melhorar as habilidades e competências dos funcionários públicos.",
+        "options": ["Organizar eventos desportivos", "Fornecer formação técnica", "Promover viagens culturais", "Reduzir o horário de trabalho"],
+        "answer": "Fornecer formação técnica"
+    },
+    {
+        "question": "Como o PlanAPP influencia a política pública?",
+        "information": "O PlanAPP ajuda a moldar políticas públicas através de investigação e análise de dados.",
+        "options": ["Criando campanhas publicitárias", "Influenciando decisões de moda", "Desenvolvendo políticas baseadas em evidências", "Organizando concertos"],
+        "answer": "Desenvolvendo políticas baseadas em evidências"
+    },
+    {
+        "question": "Qual é o impacto esperado das iniciativas do PlanAPP na sociedade?",
+        "information": "Espera-se que as iniciativas do PlanAPP melhorem a transparência e eficiência dos serviços públicos.",
+        "options": ["Aumentar as vendas de livros", "Melhorar serviços públicos", "Promover marcas de moda", "Aumentar a produção de filmes"],
+        "answer": "Melhorar serviços públicos"
+    },
+    {
+        "question": "De que forma o PlanAPP promove a colaboração internacional?",
+        "information": "O PlanAPP colabora com organizações internacionais para trocar conhecimentos e melhores práticas.",
+        "options": ["Organizando festivais de música", "Estabelecendo parcerias globais", "Promovendo marcas locais", "Criando competições desportivas"],
+        "answer": "Estabelecendo parcerias globais"
+    },
+    {
+        "question": "Qual é a importância da inovação para o PlanAPP?",
+        "information": "Para o PlanAPP, a inovação é crucial para desenvolver soluções eficazes e sustentáveis para a administração pública.",
+        "options": ["Manter tradições", "Inovação em serviços públicos", "Promoção de eventos", "Design de moda"],
+        "answer": "Inovação em serviços públicos"
+    },
+    {
+        "question": "De que maneira o PlanAPP aborda os desafios ambientais?",
+        "information": "O PlanAPP integra considerações ambientais nos seus projetos para promover a sustentabilidade.",
+        "options": ["Focando apenas em tecnologia", "Ignorando questões ambientais", "Incorporando práticas sustentáveis", "Promovendo viagens internacionais"],
+        "answer": "Incorporando práticas sustentáveis"
+    },
+    {
+        "question": "Como o público pode participar ou contribuir para as iniciativas do PlanAPP?",
+        "information": "O PlanAPP encoraja a participação pública através de consultas e feedback sobre seus projetos.",
+        "options": ["Participando em desfiles demoda", "Contribuindo com ideias e feedback", "Assistindo a eventos online", "Comprando produtos promocionais"],
+        "answer": "Contribuindo com ideias e feedback"
+    }
+    
+]
